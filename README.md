@@ -1,3 +1,8 @@
+# COMPLETE-lab02
+
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-yinonrousso/
+Repo: https://github.com/ucsb-cs56-w20/lab02-yinonrousso
+
 # STARTER-lab02
 
 * TODO: Change the title of this README in the text `# STARTER-lab02` above
